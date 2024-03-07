@@ -8,7 +8,7 @@
 
 - You can use the this command link for cloning the project files to your computer:
 
-- git clone https://github.com/ipekyilmaz35/Student-grade-keeper-with-Typescript.git
+- git clone https://github.com/ipekyilmaz35/Shopping-project-with-Vue
 
 ## Sample Screen Appearance
 
